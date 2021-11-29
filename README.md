@@ -1,5 +1,5 @@
 # Semantically-Guided-Self-Supervised-Monocular-Depth-Estimation
-We use PyTorch 1.1 with Cuda 10.0. An requirements.txt  exists. 
+一、We use PyTorch 1.1 with Cuda 10.0. An requirements.txt  exists. 
 
 1. In your project dir export the environment variable for the checkpoints: export IFN_DIR_CHECKPOINT=/path/to/folder/Checkpoints
 
@@ -12,7 +12,7 @@ We use PyTorch 1.1 with Cuda 10.0. An requirements.txt  exists.
 
 
 
-our models ：链接：https://pan.baidu.com/s/1iRXwjL1qTWhaYtUj-eoW2Q size：128*416
+二、our models ：链接：https://pan.baidu.com/s/1iRXwjL1qTWhaYtUj-eoW2Q size：128*416
 提取码：ctwl
 
 
